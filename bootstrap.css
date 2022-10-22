@@ -1,0 +1,55 @@
+.image-hero rounded mx-auto d-block rounded {
+    object-fit: cover;
+}
+
+.tittle {
+    font-family: 'Raleway', sans-serif;
+}
+
+.subtittle {
+    letter-spacing: 10px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#hero {
+    height: 15vh;
+}
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    align-items: center;
+  }
+
+  .tittleaboutme {
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 30px;
+  }
+  .aboutme {
+    font-family: 'Raleway', sans-serif;
+    color: grey;
+    text-indent: 90px;
+    text-align: justify;
+  }
+
+  .card-text {
+    text-align: justify;
+  }
+
+  .portofolio {
+    text-align: center;
+    font-family: 'Raleway' , sans-serif;
+    margin-bottom: 30px;
+  }
+
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+
+.contactme {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-family: 'Raleway' , sans-serif;
+}
